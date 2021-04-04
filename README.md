@@ -4,7 +4,7 @@ Restful API Manga bahasa Indonesia built with ❤️ and node.js
 # Usage
 1. Clone this repository
     ```bash
-    git clone https://github.com/febryardiansyah/manga-api.git
+    git clone https://github.com/Cilbosswp/manga.git
     ```
 2. Install dependecies (`yarn` or `npm install`)
 3. Start the development environment (*if you haven't installed nodemon globally, you can do `npm i nodemon --save`)
